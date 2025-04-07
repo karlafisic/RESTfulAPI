@@ -1,0 +1,47 @@
+# Go files
+*.go
+*.env
+# Compiled binary data
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Output
+*.out
+*.obj
+*.ilk
+*.exp
+
+# Coverage data
+*.cover
+*.coverprofile
+*.gcda
+
+# Dependency directories
+vendor/
+*.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build results
+/bin/
+/pkg/
+/dist/
+
+# Test coverage reports
+/coverage/
+
+# Temporary files
+tmp/
+tmp/*
